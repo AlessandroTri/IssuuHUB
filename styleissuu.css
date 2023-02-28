@@ -1,0 +1,111 @@
+
+    
+
+
+
+
+
+nav{
+    border-bottom: 3px solid rgba(128, 128, 128, 0.197);
+     
+}
+
+.user{padding-left: 1600px;
+    margin-top: 10px;
+
+}
+
+.sign{
+    padding-left: 1700px;
+    
+}
+.Tittle{
+    margin-left: 100px;
+    
+     }
+
+
+
+.google{
+    display:inline-flex;
+    border: 1px solid rgb(69, 173, 241);
+    background-color:rgb(69, 173, 241);
+    width: 200px;
+    margin-top: 5px;
+    color:white;
+    padding: 5px ; 
+    font-size: 15px;
+    
+     }
+
+.facebook{
+    display: inline-flex;
+    border: 1px solid rgb(10, 45, 161);
+    background-color:rgb(11, 80, 127);
+    width: 200px;
+    color: white;
+    padding: 4px;
+    font-size: 15px;
+    }
+
+.email{
+padding-left: 100px;
+
+}
+
+.socials{
+padding-left: 100px;
+
+}
+
+.password{
+    padding-left: 100px;
+}
+
+.terms{
+    padding-left: 100px;
+    padding-top: 15px;
+}
+a:link { text-decoration: none;
+    color: black;
+}
+
+a{color: black;
+
+}
+
+
+
+.create{
+    margin-left: 100px;
+    margin-top: 30px;
+    margin-bottom: 70px;
+    background-color:white;
+	border-radius:28px;
+	border:1px solid rgb(199, 188, 188);
+	display:inline-block;
+	cursor:pointer;
+	color:#afafaf;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+    
+}
+footer{
+   padding-left: 100px ;
+    right: 100px;
+    border-top-left-radius: 3px;
+    border-top: 3px solid rgba(128, 128, 128, 0.197);
+    padding-top: 10px;
+    
+    }
+
+    .issuu{
+        padding-right: 80px;
+    }
+
+    
+
+
