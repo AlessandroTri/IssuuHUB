@@ -10,13 +10,15 @@ nav{
      
 }
 
-.user{padding-left: 1600px;
-    margin-top: 10px;
+.user{
+    width: 100%;
+    text-align:end;
 
 }
 
 .sign{
-    padding-left: 1700px;
+    width: 100%;
+    text-align:end;
     
 }
 .Tittle{
@@ -33,7 +35,7 @@ nav{
     width: 200px;
     margin-top: 5px;
     color:white;
-    padding: 5px ; 
+    padding: 4px ; 
     font-size: 15px;
     
      }
@@ -71,6 +73,7 @@ a:link { text-decoration: none;
 }
 
 a{color: black;
+    margin: 10px;
 
 }
 
@@ -94,16 +97,19 @@ a{color: black;
     
 }
 footer{
-   padding-left: 100px ;
+   padding-left: 80px ;
     right: 100px;
     border-top-left-radius: 3px;
     border-top: 3px solid rgba(128, 128, 128, 0.197);
     padding-top: 10px;
-    
+    text-align:start;
+
+
     }
 
     .issuu{
         padding-right: 80px;
+        
     }
 
     
